@@ -1,0 +1,10 @@
+#!/bin/bash
+
+rm -rf CMakeFiles
+rm -rf CMakeCache.txt
+rm -rf cmake_install.cmake
+rm -rf Makefile
+rm -rf *.a
+rm -rf *.jpg
+rm -rf *.png
+rm -rf owen
